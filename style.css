@@ -1,0 +1,45 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.calbody {
+    border-radius: 7px;
+    background-color: #595B67;
+    width: 400px;
+    height: 450px;
+    text-align: center;
+}
+
+#result {
+    border-radius: 15px;
+    border: none;
+    color: black;
+    font-size: 30px;
+    width: 90%;
+    height: 90%;
+    text-align: right;
+}
+
+.num {
+    font-size: 40px;
+    height: 90%;
+    width: 90%;
+    border-radius: 15px;
+    border: 3px solid #595B67;
+    color: white;
+    background-color: #3D4049;
+}
+
+.ops {
+    font-size: 40px;
+    height: 90%;
+    width: 90%;
+    border-radius: 15px;
+    border: 3px solid #595B67;
+    color: black;
+    background-color: #FFD93D;
+}
+
+input{
+    padding-inline: 5px;
+}
